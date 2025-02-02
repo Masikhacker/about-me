@@ -9,7 +9,7 @@
     <h1>ABOUT ME</h1>
     <p>Hi, my name is Mark. I have a passion for many activities that bring me joy and fulfillment:</p>
     <ul>
-        <li><strong>Climbing</strong> - I love the thrill and challenge of climbing, whether indoors or outdoors.</li>
+        <li><strong>Climbing</strong> - I love the thrill and challenge of climbing, whether indoors or outdoors. It's an activity I deeply enjoy, and I’m happy that my family shares this passion too.</li>
         <li><strong>Swimming</strong> - The water is where I feel most relaxed and free, and swimming is one of my favorite ways to exercise.</li>
         <li><strong>Playing Music</strong> - Music is a huge part of my life, and I especially enjoy playing the piano. It’s a great way for me to express myself and unwind.</li>
     </ul>
@@ -18,8 +18,8 @@
     <p>I am incredibly proud of my family and their achievements:</p>
     <ul>
         <li><strong>My Dad</strong> - My dad is a talented musician. He continues to create music and has been teaching me how to play the piano, passing down his knowledge and passion for music. He doesn’t have a GitHub profile, but his love for music speaks for itself.</li>
-        <li><strong>My Mom</strong> - My mom learned to play the violin and has become quite skilled at it. She continues to improve and is a true inspiration to me. You can check out her <a href="https://github.com/masikhacker" target="_blank">GitHub</a>.</li>
-        <li><strong>My Sister</strong> - My sister is a math professor at a university. She teaches not only math, but also inspires her students in many other ways. You can also visit her <a href="https://github.com/yuliaalexandr" target="_blank">GitHub</a>.</li>
+        <li><strong>My Mom</strong> - My mom learned to play the violin and has become quite skilled at it. She continues to improve and is a true inspiration to me. She also loves climbing, which is something we sometimes enjoy together. You can check out her <a href="https://github.com/masikhacker" target="_blank">GitHub</a>.</li>
+        <li><strong>My Sister</strong> - My sister is a math professor at a university. She teaches not only math but also inspires her students in many other ways. She shares my love for climbing, and we often go climbing together. You can also visit her <a href="https://github.com/yuliaalexandr" target="_blank">GitHub</a>.</li>
     </ul>
 </body>
 </html>
